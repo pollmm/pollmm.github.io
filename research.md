@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+permalink: /research/
 ---
 
 # Research
@@ -14,4 +15,4 @@ Check out my publications:
 1. **Equitably allocating wildfire resilience investments for power grids** (Submitted to *Applied Energy*).
 2. **State aggregation in deteriorating Markov Decision Processes** (Major revision at *Computers & OR*).
 
-[View all preprints](https://arxiv.org/search/?query=YourName).
+[View all preprints](https://arxiv.org/search/?query="Madeleine Pollack").
