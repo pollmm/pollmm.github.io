@@ -2,7 +2,6 @@ body {
     padding: 50px;
     max-width: 1200px;
     margin: 0 auto;
-    padding-bottom: 50px;
     padding-bottom: 60px
 }
 
@@ -11,4 +10,8 @@ footer {
     bottom: 0;
     width: 100%;
     padding: 20px 0;
+}
+
+.page__footer {
+    position: relative;  /* Ensure the footer stays at the bottom without overlapping */
 }
