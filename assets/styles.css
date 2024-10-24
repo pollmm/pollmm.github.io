@@ -1,0 +1,14 @@
+body {
+    padding: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-bottom: 60px
+}
+
+footer {
+    position: relative;  /* or static */
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0;
+}
