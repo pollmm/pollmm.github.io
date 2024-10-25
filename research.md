@@ -15,6 +15,7 @@ Past research topics included sequential decision-making and optimizing equitabl
 Check out my papers below! 
 
 1. **Equitably allocating wildfire resilience investments for power grids: The curse of aggregation and vulnerability indices** (Submitted to *Applied Energy*). [See paper](https://arxiv.org/abs/2404.11520)
+![Simulated Load Shed](assets/images/texas_ls.gif){: style="float: right; width: 300px; height: auto; margin: 0 0 10px 10px;"}
 2. **The implications of state aggregation in deteriorating Markov Decision Processes with optimal threshold policies** (Major revision at *Computers & OR*). [See paper](https://arxiv.org/abs/2405.12912)
 
 [View all preprints](https://arxiv.org/search/?query="Madeleine Pollack").
