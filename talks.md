@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 ### Upcoming Talks
-- **Spring 2025** (Date TBA): Guest speaker at Syracuse Economics department, *ECN 310*
+- **Spring 2025** (April 2025): Guest speaker at Syracuse Economics department, *ECN 310*
 
 ### Past Talks
 
