@@ -4,6 +4,7 @@ title: News
 ---
 
 # News
+- **[May 2025]** Our paper on "Navigating the Social Welfare Frontier: Portfolios for Multi-objective Reinforcement Learning" has been accepted to ICML 2025!
 - **[April 2025]** I was honored to receive an NSF-GRFP fellowship for the 2025 cycle. 
 - **[October 2024]** I presented my talk "The Curse of Aggregation & Vulnerability Indices in Climate Resource Allocation" at the 2024 INFORMS Annual Meeting in Seattle, WA.
 - **[August 2023]** I am honored to be the recipient of the MIT ORC's Henry Gabbay Fellowship!

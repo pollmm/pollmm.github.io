@@ -5,10 +5,11 @@ permalink: /talks/
 ---
 
 ### Upcoming Talks
-- **Spring 2025** (April 2025): Guest speaker at Syracuse Economics department, *ECN 310*
+I wil be co-chairing a session with Prof. Swati Gupta at the 2025 INFORMS Annual Meeting in Atlanta, GA titled "Learning with Humans, AI, and Limited Data." I will also be presenting my work on costly bandits during the session.
 
 ### Past Talks
 
+- **Spring 2025** (April 2025): Guest speaker at Syracuse Economics department, *ECN 310*
 - **December 2024**: I was a guest speaker at Virginia Tech ISE, *Deterministic OR 2*, presenting our work on wildfire infrastructure investments and discussing the field of fair OR.
 - **October 2024**: I presented a talk on "*The Curse of Aggregation & Vulnerability Indices in Climate Resource Allocation*" at the 2024 INFORMS Annual Meeting.
 - **April 2024**: I presented our research applying the *Justice40 initiative to infrastructure investments for wildfire resilience* to the Energy Justice Analysis Division of the Department of Energy.

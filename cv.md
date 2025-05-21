@@ -10,11 +10,11 @@ title: CV
 ## Education
 
 - **Massachusetts Institute of Technology (MIT), Cambridge, MA**  
-  Candidate for PhD in Operations Research; expected completion, **JUNE 2028**. GPA: **4.6/5.0**  
+  Candidate for PhD in Operations Research; expected completion, **JUNE 2028**
   Advisor: Swati Gupta
 
 - **Georgia Institute of Technology, Atlanta, GA**  
-  B.S. in Industrial and Systems Engineering; May 2023. GPA: **4.0/4.0**  
+  B.S. in Industrial and Systems Engineering; May 2023 
   Highest Honors, College of Engineering Honor Graduate
 
 ---
